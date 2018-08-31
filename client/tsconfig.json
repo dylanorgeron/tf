@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "sourceMap": true,
+    "inlineSourceMap": true,
+
+    "removeComments": false,
+    "noEmit": true,
+    "importHelpers": true,
+
+    "strict": true,
+
+    "moduleResolution": "node",
+    "baseUrl": "../",
+    
+    "esModuleInterop": true
+  }
+}

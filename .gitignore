@@ -1,0 +1,5 @@
+.cache/
+.cache-loader/
+.vscode/
+node_modules/
+*.log
