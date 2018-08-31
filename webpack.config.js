@@ -123,7 +123,7 @@ module.exports = {
       middleware.content()
 
       app.use(connect(proxy('/api', { target: 'http://localhost:8081' })))
-      // app.use(convert(history()))
+      app.use(connect(history()))
     }
   }
 }
