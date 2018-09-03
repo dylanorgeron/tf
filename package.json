@@ -35,11 +35,13 @@
   },
   "dependencies": {
     "@profiscience/knockout-contrib": "^2.0.0-rc.14",
+    "@types/koa-bodyparser": "^5.0.1",
     "@types/mysql": "^2.15.5",
     "jquery": "^3.3.1",
     "knockout": "^3.5.0-rc",
     "knockout-punches": "^0.5.1",
     "koa": "^2.5.2",
+    "koa-bodyparser": "^4.2.1",
     "koa-router": "^7.4.0",
     "mysql": "^2.16.0",
     "tslib": "^1.9.3"
